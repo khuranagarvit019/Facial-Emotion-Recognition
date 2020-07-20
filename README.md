@@ -14,4 +14,10 @@ video.py
 fer.h5(contains weights of model) & fer.json(contains model architecture)
 
 #### haarcascade_frontalface_default.xml:
-A haar cascade by OpenCV used to detect frontal face
+A haar cascade by OpenCV used to detect frontal face 
+
+##### Dependencies:
+Keras: pip install keras
+Pandas: pip install pandas
+OpenCV: pip install opencv-python
+
